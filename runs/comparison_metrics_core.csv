@@ -1,0 +1,5 @@
+Model,mAP50,mAP50-95,Precision,Recall
+Visible,,,0.98158,0.81818
+Infrared,,,0.76364,0.2
+Fused_Gradient,,,0.56104,0.59115
+Fused_Gradient_Enhanced,,,0.66016,0.57215

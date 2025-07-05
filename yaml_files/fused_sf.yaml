@@ -1,0 +1,8 @@
+path: C:/Users/smpga/PycharmProjects/Object_detection/datasets_split/fused_sf
+train: images/train
+val: images/val
+
+names:
+  0: person
+  1: person-in-vehicle
+  2: crowd

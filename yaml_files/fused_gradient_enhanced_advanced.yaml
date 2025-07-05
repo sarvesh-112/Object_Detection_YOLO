@@ -1,0 +1,9 @@
+path: C:/Users/smpga/PycharmProjects/Object_detection/datasets_split/fused_gradient_enhanced_advanced
+train: images/train
+val: images/val
+
+names:
+  0: person
+  1: person-in-vehicle
+  2: vehicle
+  3: helmet

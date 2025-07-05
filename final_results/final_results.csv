@@ -1,0 +1,6 @@
+Model,mAP50,mAP50-95,Precision,Recall
+Visible_v8s,0.944,0.854,0.862,0.909
+Infrared_v8s,0.256,0.128,0.332,0.35
+Fused_Gradient_v8s,0.369,0.268,0.309,0.382
+Fused_MGF_v8s,0.836,0.596,0.952,0.625
+Fused_SF_v8s,0.955,0.785,0.894,0.847

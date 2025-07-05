@@ -1,0 +1,9 @@
+path: C:/Users/smpga/PycharmProjects/Object_detection/datasets_split/infrared
+train: images/train
+val: images/val
+
+names:
+  0: person
+  1: person_in_vehicle
+  2: person_on_bike
+  3: person_sitting

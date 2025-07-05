@@ -1,0 +1,10 @@
+path: C:/Users/smpga/PycharmProjects/Object_detection/datasets_split/fused_gradient
+train: images/train
+val: images/val
+
+nc: 4
+names:
+  0: person
+  1: person_in_vehicle
+  2: person_on_bike
+  3: person_sitting
