@@ -1,6 +1,5 @@
 # Object_Detection_YOLO
 
-Absolutely! Here's your **perfect README.md** for the project `Object Detection using Visible and Infrared Image Fusion with YOLOv8`, followed by a detailed **project summary** of our full journey from scratch to final model deployment and GitHub upload.
 
 ---
 
@@ -19,7 +18,7 @@ We compare the results to evaluate which fusion strategy improves detection accu
 ## 📁 Project Structure
 
 ```
-
+```
 Object\_Detection\_YOLO/
 ├── datasets/
 │   ├── VisibleImages/
@@ -58,7 +57,7 @@ Object\_Detection\_YOLO/
 │   └── train\_yolov8.py
 ├── final\_results/
 │   └── final\_comparison.csv
-
+```
 ````
 
 ## ⚙️ Setup Instructions
